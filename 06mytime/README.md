@@ -1,10 +1,9 @@
--*** Building executables ***
+***Building executables***
 
 ```
 go build 
 ```
-
-- *** For other OS ***
+***For other OS***
 ```
 GOOS="windows" go build
 ```
